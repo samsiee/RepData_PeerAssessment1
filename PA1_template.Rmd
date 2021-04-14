@@ -2,7 +2,7 @@
 title: "Reproducible Data Peer Assessment 1"
 author: "Sammy"
 date: "4/13/2021"
-output: html_document
+output: md_document
 keep_md: true 
 ---
 Set global options
